@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day6 -problems/1.0.0": {
+        "runtime": {
+          "Day6 -problems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day6 -problems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
